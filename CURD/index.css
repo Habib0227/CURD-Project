@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+body{
+background-image:url("loginpage.jpg");
+background-size: cover;
+}
+
+
+.link1{
+	 background-color: #F5EBE0; 
+  border: none;
+  width:150px;
+  color: #434242;
+  padding: 20px 30px ;
+  text-align: center;
+  text-decoration: none;
+  display:relative;
+  font-size: 20px;
+  transition-duration: 0.4s;
+cursor:pointer;
+
+}
+ .link1:hover,.link1:active{
+  background-color: #62B6B7;
+  color: white;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+  
+}
+
+ .transform{
+ text-align: center;
+ height:390px;
+ width:390px;
+ right:500px;
+  background-color: #ffffff;
+  border:none;
+  border-radius:20px;
+  padding-top: 50px;
+  background: rgba(100, 100, 50, 0.1 );
+ 
+ }
+ 
+ .transparent{
+ 
+	 padding-left: 480px;
+	 padding-top: 100px;
+ }
+ 
